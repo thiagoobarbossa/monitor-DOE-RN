@@ -310,6 +310,10 @@ Exemplo: se hoje for 10/07/2026, o monitor verificará:
 10/07/2026
 ```
 
+```text
+Também é possível configurar a verificação de dias futuros, pois algumas edições do Diário Oficial podem ser disponibilizadas com data posterior à data de fechamento, como ocorre quando a edição de hoje é fechada à noite e publicada apenas no dia seguinte.**
+```
+
 ---
 
 ## ⏱️ Configurar intervalo entre buscas
