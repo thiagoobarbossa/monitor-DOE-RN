@@ -1,0 +1,18 @@
+# Coloque um termo por linha.
+# Linhas que começam com # são ignoradas.
+# O monitor ignora maiúsculas/minúsculas e também acentos.
+
+LOURIETE RIBEIRO DE ARAUJO
+LOURIETE RIBEIRO DE ARAUJO BARBOSA
+SEAD
+SEEC
+8ª DIREC
+8 DIREC
+Professor de Pedagogia
+Professor Pedagogia Anos Iniciais
+convocação
+nomeação
+tornar sem efeito
+sem efeito
+posse
+SIGA POTIGUAR
