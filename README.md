@@ -255,15 +255,11 @@ Coloque um termo por linha.
 Exemplo:
 
 ```text
-SEAD
 SEEC
+DIREC
 nomeação
 convocação
-tornar sem efeito
 posse
-Professor de Pedagogia
-8ª DIREC
-SIGA POTIGUAR
 ```
 
 Você também pode monitorar nomes completos, cargos, órgãos, matrículas, municípios ou expressões específicas.
@@ -272,7 +268,7 @@ Exemplo:
 
 ```text
 MARIA DA SILVA
-JOÃO PEREIRA DOS SANTOS
+JOÃO PEREIRA
 SECRETARIA DE ESTADO DA EDUCAÇÃO
 CONCURSO PÚBLICO
 DIÁRIO OFICIAL
@@ -483,9 +479,10 @@ Quando encontrar termos em uma publicação, o alerta será parecido com:
 📅 Data de publicação: 10/07/2026
 
 ✅ Termos encontrados:
-- SEAD
+- SEEC
 - nomeação
-- Professor de Pedagogia
+- Professor
+- convocação
 
 🔗 Link do PDF:
 https://...
@@ -620,13 +617,13 @@ Ideias futuras:
 
 Este projeto está licenciado sob a licença MIT.
 
-Você pode usar, modificar e compartilhar, desde que mantenha os créditos e respeite os termos da licença.
+Você pode usar, modificar e compartilhar, desde que mantenha os créditos, respeite os termos da licença e não utilize para fins ilegais. 
 
 ---
 
 ## 👨‍💻 Créditos
 
-Desenvolvido por **Thiago Barbosa**, com apoio de Inteligência Artificial, para auxiliar no acompanhamento de publicações do Diário Oficial do Estado do Rio Grande do Norte.
+Desenvolvido por **Thiago Barbosa**, com apoio da Inteligência Artificial pertencente a OpenAI, para auxiliar no acompanhamento de publicações do Diário Oficial do Estado do Rio Grande do Norte.
 
 Se este projeto ajudou você, deixe uma estrela ⭐ no repositório.
 
