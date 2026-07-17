@@ -178,14 +178,11 @@ def load_terms(path: Path) -> list[str]:
     if not path.exists():
         exemplo = (
             "# Coloque um termo por linha. Linhas iniciadas com # são ignoradas.\n"
-            "LOURIETE RIBEIRO DE ARAUJO\n"
-            "SEAD\n"
             "SEEC\n"
-            "8ª DIREC\n"
-            "Professor de Pedagogia\n"
+            "1ª DIREC\n"
+            "Professor de História\n"
             "convocação\n"
             "nomeação\n"
-            "tornar sem efeito\n"
         )
         path.write_text(exemplo, encoding="utf-8")
         logging.warning("Arquivo de termos não existia. Criei um exemplo em: %s", path)
