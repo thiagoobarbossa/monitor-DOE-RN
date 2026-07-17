@@ -9,6 +9,14 @@ O objetivo é ajudar servidores, professores, candidatos de concursos, advogados
 
 ---
 
+## 🙏 Inspiração
+
+Este projeto foi inspirado no repositório [juntaEstado](https://github.com/guteco/juntaEstado), desenvolvido por **Augusto Severo (Guteco)**, que criou uma ferramenta em Python para monitorar vagas de agendamento na Junta Médica do Rio Grande do Norte.
+
+A ideia deste monitor do DOE/RN surgiu a partir da mesma necessidade prática: automatizar consultas repetitivas a serviços públicos e enviar alertas úteis ao usuário. Embora o objetivo e a lógica de funcionamento sejam diferentes, o projeto `juntaEstado` serviu como referência inicial de organização, simplicidade e uso de notificações via Telegram.
+
+---
+
 ## ✨ Funcionalidades
 
 * 🔎 Verifica publicações recentes do DOE/RN.
